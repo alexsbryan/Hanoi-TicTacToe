@@ -1,0 +1,30 @@
+.ring {
+    background-color: white;
+    border: 3px solid;
+    font-size: 9em;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    height: 30%;
+}
+.small {
+    width: 60%;
+    border-color: blue;
+}
+
+.medium {
+    width: 70%;
+    border-color: red;
+}
+
+.large {
+    width: 80%;
+    border-color: chartreuse;
+}
+
+.container {
+    width: 150px;
+    height: 150px;
+    display: block;
+    float: left;
+}

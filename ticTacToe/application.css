@@ -1,0 +1,16 @@
+.square {
+    background-color: white;
+    border: 3px solid;
+    font-size: 9em;
+    text-align: center;
+    display: block;
+    float: left;
+    width: 30%;
+    height: 30%;
+    border-color: black;
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+}
